@@ -1,0 +1,18 @@
+numpy==1.24.3
+pandas==2.1.1
+scikit-learn==1.3.0
+xgboost>=2.0.0
+lightgbm>=4.0.0
+tensorflow-macos==2.13.0
+tensorflow-metal==1.0.1
+matplotlib==3.9.2
+seaborn==0.13.2
+joblib==1.4.2
+kaggle>=1.5.16
+rich>=13.0.0
+tabulate>=0.9.0
+streamlit>=1.35.0
+# Fine-tuning ClinicalBERT
+torch>=2.1.0
+transformers>=4.40.0
+accelerate>=0.27.0

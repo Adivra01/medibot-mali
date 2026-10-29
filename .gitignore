@@ -1,0 +1,22 @@
+# Local patient/demo database and uploads
+*.sqlite
+*.sqlite3
+*.db
+
+# Python environments and generated files
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Local OS and editor files
+.DS_Store
+.vscode/
+
+# Local QA captures and generated previews
+outputs/*.png
+outputs/*.pdf
+
+# Microsoft Office lock files
+~$*

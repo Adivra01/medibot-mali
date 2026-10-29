@@ -1,0 +1,17 @@
+                                    precision    recall  f1-score   support
+
+ Medication review due (situation)       1.00      1.00      1.00        28
+             Gingivitis (disorder)       0.87      0.95      0.91        21
+                  Stress (finding)       0.95      1.00      0.97        19
+    Full-time employment (finding)       0.95      1.00      0.97        19
+        Viral sinusitis (disorder)       0.67      0.88      0.76        16
+    Part-time employment (finding)       0.81      0.93      0.87        14
+        Social isolation (finding)       0.88      0.88      0.88        16
+  Limited social contact (finding)       0.53      0.90      0.67        10
+      Not in labor force (finding)       0.58      0.64      0.61        11
+Acute viral pharyngitis (disorder)       0.78      0.50      0.61        14
+
+                         micro avg       0.82      0.89      0.86       168
+                         macro avg       0.80      0.87      0.82       168
+                      weighted avg       0.84      0.89      0.86       168
+                       samples avg       0.82      0.91      0.84       168

@@ -1,0 +1,22 @@
+{
+  "patients_used": 111,
+  "observations_source_rows": 53961,
+  "conditions_source_rows": 3387,
+  "features": 176,
+  "targets": [
+    "Medication review due (situation)",
+    "Gingivitis (disorder)",
+    "Stress (finding)",
+    "Full-time employment (finding)",
+    "Viral sinusitis (disorder)",
+    "Part-time employment (finding)",
+    "Social isolation (finding)",
+    "Limited social contact (finding)",
+    "Not in labor force (finding)",
+    "Acute viral pharyngitis (disorder)"
+  ],
+  "test_patients": 28,
+  "f1_macro": 0.8240290252246775,
+  "hamming_loss": 0.17857142857142858,
+  "note": "Synthea est synthétique; ce score ne constitue pas une validation clinique."
+}
